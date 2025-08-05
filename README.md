@@ -1,4 +1,4 @@
-#Task 1: Design-ER-Diagram-for-Company-Database
+# Task 1: Design-ER-Diagram-for-Company-Database
 📝 Instruction (Task Description):
 Please design an Entity-Relationship (ER) diagram based on the following company structure and business rules:
 
@@ -48,7 +48,7 @@ A project belongs to one department but departments may have many projects.
 A department may have multiple employees, but an employee belongs to exactly one department.
 Dependents are associated with their parent employee, and should be removed if the employee leaves the company.
 
-#Task 2: Apply ER-to-Relational Mapping Rules to Existing ER Diagram
+# Task 2: Apply ER-to-Relational Mapping Rules to Existing ER Diagram
 
 📝 Instruction (Task Description):
 
